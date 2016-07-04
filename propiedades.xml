@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<propiedades>
+    <propiedad>
+        <thumbnail>images/1.jpg</thumbnail>
+        <hoverText>URBAN LOFTS II</hoverText>
+        <texto>Lofts con carácter Urbano Retro</texto>
+        <texto2>Disponibles: 2</texto2>
+        <imagenGrande>images/texto/urban2.jpg</imagenGrande>
+        <descripcion></descripcion>
+    </propiedad>
+
+    <propiedad>
+        <thumbnail>images/2.jpg</thumbnail>
+        <hoverText>LOFT OPEN AIR</hoverText>
+        <texto>Concepto industrial minimalista</texto>
+        <texto2>Independiente</texto2>
+        <imagenGrande>images/texto/openair.jpg</imagenGrande>
+        <descripcion></descripcion>
+    </propiedad>
+
+    <propiedad>
+        <thumbnail>images/3.jpg</thumbnail>
+        <hoverText>SOLTERIA DEPTO</hoverText>
+        <texto>Departamento pensado para la vida de solter@ o pareja.</texto>
+        <texto2>Disponibles: 1</texto2>
+        <imagenGrande>images/texto/solteria.jpg</imagenGrande>
+        <descripcion></descripcion>
+    </propiedad>
+
+    <propiedad>
+        <thumbnail>images/4.jpg</thumbnail>
+        <hoverText>URBAN LOFTS I</hoverText>
+        <texto>12 Lofts con carácter urbano industrial con una arquitectura de transición resaltando el entorno arbolado del propio terreno.</texto>
+        <texto2>Disponibles: 3</texto2>
+        <imagenGrande>images/texto/urban1.jpg</imagenGrande>
+        <descripcion></descripcion>
+    </propiedad>
+
+    <propiedad>
+        <thumbnail>images/5.jpg</thumbnail>
+        <hoverText>Propiedad 05</hoverText>
+        <texto>Loft Cuernavaca</texto>
+        <texto2>Loft de 250 m2 en zona residencial.</texto2>
+        <imagenGrande>images/texto/gral.png</imagenGrande>
+        <descripcion></descripcion>
+    </propiedad>
+
+    <propiedad>
+        <thumbnail>images/6.jpg</thumbnail>
+        <hoverText>Propiedad 06</hoverText>
+        <texto>Loft Cuernavaca</texto>
+        <texto2>Loft de 250 m2 en zona residencial.</texto2>
+        <imagenGrande>images/texto/gral.png</imagenGrande>
+        <descripcion></descripcion>
+    </propiedad>
+
+    <propiedad>
+        <thumbnail>images/7.jpg</thumbnail>
+        <hoverText>Propiedad 07</hoverText>
+        <texto>Loft Cuernavaca</texto>
+        <texto2>Loft de 250 m2 en zona residencial.</texto2>
+        <imagenGrande>images/texto/gral.png</imagenGrande>
+        <descripcion></descripcion>
+    </propiedad>
+
+    <propiedad>
+        <thumbnail>images/8.jpg</thumbnail>
+        <hoverText>Propiedad 08</hoverText>
+        <texto>Loft Cuernavaca</texto>
+        <texto2>Loft de 250 m2 en zona residencial.</texto2>
+        <imagenGrande>images/texto/gral.png</imagenGrande>
+        <descripcion></descripcion>
+    </propiedad>
+
+    <propiedad>
+        <thumbnail>images/9.jpg</thumbnail>
+        <hoverText>Propiedad 09</hoverText>
+        <texto>Loft Cuernavaca</texto>
+        <texto2>Loft de 250 m2 en zona residencial.</texto2>
+        <imagenGrande>images/texto/gral.png</imagenGrande>
+        <descripcion></descripcion>
+    </propiedad>
+</propiedades>
